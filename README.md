@@ -35,7 +35,8 @@ Choosing the wrong crop for a region or soil type can lead to poor yields and fi
 ## 📷 Web Interface
 
 > Screenshot of the interface:
-![App Interface](https://github.com/user-attachments/assets/d167bef7-7dab-4424-bc4e-a251bd49d4f5)
+> ![Screenshot 2024-09-24 215859](https://github.com/user-attachments/assets/fb7c30b6-af62-472c-9da0-04c57f3cd2a4)
+
 
 ---
 
